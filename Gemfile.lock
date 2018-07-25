@@ -4,9 +4,9 @@ GIT
   branch: v2
   specs:
     jekyll-lunr-js-search (3.0.0)
-      nokogiri (~> 1.6)
+      nokogiri (~> 1.8.4)
       therubyracer (~> 0.12)
-      yajl-ruby
+      yajl-ruby (~> 1.4.0)
 
 GEM
   remote: https://rubygems.org/
